@@ -1,0 +1,13 @@
+{
+    "prefix": "/",
+    "botId": "1258688799135760434",
+    "botName": "Rtk Uptime",
+    "ownerIds": ["883251785656070154","927082882785243176"],
+    "token": "MTI1ODY4ODc5OTEzNTc2MDQzNA.G88vyl.G426BX6i-0-yZs8CCw_I_bqMOyJChMLKH4ncng",
+    "normalLimit": 3,
+    "premiumLimit": 5,
+    "uptimeLogChannel": "1258691166065393736",
+    "premiumLogChannel": "1258691210353184788",
+    "blacklistLogChannel": "1258691166065393736",
+    "noWarn": true
+  }
